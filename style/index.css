@@ -1,1 +1,50 @@
 /* Your own custom styles should be here */
+body {
+    font-family: 'Inter', sans-serif;
+}
+h2 {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.custom-nav-item {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.custom-nav-item a {
+    font-weight: 200;
+    color: black;
+}
+
+.custom-h1 {
+    max-width: 400px;
+}
+
+.custom-lead {
+    width: 50%;
+}
+
+.product-list-row li{
+    list-style-type: "- ";
+    
+}
+.bg-black {
+    background-color: black;
+}
+
+
+footer ul {
+    padding-left: 0;
+}
+
+footer li {
+    list-style-type: none;
+    font-weight: 200;
+    font-size: medium;
+
+}
+
+footer h5 {
+    font-size: small;
+}
